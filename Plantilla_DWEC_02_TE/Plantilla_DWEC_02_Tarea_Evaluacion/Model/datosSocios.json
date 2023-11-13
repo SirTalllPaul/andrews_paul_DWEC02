@@ -1,0 +1,14 @@
+{
+    "socios": [
+        {
+        "id": 1,
+        "Nombre": "Jokin",
+        "Apellido": "Altuna"
+    },
+    {
+        "id": 2,
+        "Nombre": "Patxi",
+        "Apellido": "Bengoetxea"
+    } 
+]
+}
